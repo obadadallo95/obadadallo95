@@ -1,4 +1,4 @@
-# Obada Dallo
+<h1 align="center">Obada Dallo</h1>
 
 <p align="center">
   <strong>AI-first product builder</strong> · Full-stack developer · Flutter, Next.js, Firebase, Supabase
