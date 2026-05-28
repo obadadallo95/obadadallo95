@@ -44,14 +44,23 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 
 ## Selected Public Work
 
-| Project | What it shows |
-| --- | --- |
-| [Tazkertak](https://github.com/obadadallo95/Tazkertak) | A relationship app with secure pairing, shared memories, pulse interactions, and native widgets |
-| [sada-messenger](https://github.com/obadadallo95/sada-messenger) | Offline-first encrypted mesh messaging for Android |
-| [Hydra-Cool](https://github.com/obadadallo95/Hydra-Cool) | Research-driven engineering concept for hyperscale data-center cooling |
-| [NHP-Protocol](https://github.com/obadadallo95/NHP-Protocol) | Distributed AI compute concept built around idle smartphones |
-| [voicesyria-website](https://github.com/obadadallo95/voicesyria-website) | Multilingual product website with RTL support and clear presentation |
-| [kashef-syrian-post-guard](https://github.com/obadadallo95/kashef-syrian-post-guard) | AI-assisted Syrian content protection and moderation concept |
+### [Tazkertak](https://github.com/obadadallo95/Tazkertak)
+Private relationship app with secure pairing, shared memories, pulse interactions, and native widgets.
+
+### [sada-messenger](https://github.com/obadadallo95/sada-messenger)
+Offline-first encrypted mesh messaging for Android, built around resilience and privacy.
+
+### [Hydra-Cool](https://github.com/obadadallo95/Hydra-Cool)
+Research-driven engineering concept exploring buoyancy-assisted cooling for hyperscale data centers.
+
+### [NHP-Protocol](https://github.com/obadadallo95/NHP-Protocol)
+Distributed AI compute concept built around idle smartphones at global scale.
+
+### [voicesyria-website](https://github.com/obadadallo95/voicesyria-website)
+Multilingual product website with RTL support and a clear product-facing presentation layer.
+
+### [kashef-syrian-post-guard](https://github.com/obadadallo95/kashef-syrian-post-guard)
+AI-assisted Syrian content protection and moderation concept with a strong social-use angle.
 
 ## Focus Areas
 
