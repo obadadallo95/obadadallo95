@@ -69,7 +69,20 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 
 ## Contact
 
-- Email: [obadadallo95@gmail.com](mailto:obadadallo95@gmail.com)
-- Portfolio: [obadadallo.web.app](https://obadadallo.web.app/)
-- LinkedIn: [obada-dallo-777a47a9](https://www.linkedin.com/in/obada-dallo-777a47a9/)
-- Telegram: [@obada_dallo95](https://t.me/obada_dallo95)
+<p align="center">
+  <a href="mailto:obadadallo95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-obadadallo95%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://obadadallo.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-obadadallo.web.app-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/obada-dallo-777a47a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Obada%20Dallo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/obada_dallo95">
+    <img src="https://img.shields.io/badge/Telegram-@obada__dallo95-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
