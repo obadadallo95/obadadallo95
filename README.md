@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  From raw idea to launchable MVP, with a focus on clarity, execution, and real usability.
+</p>
+
+<p align="center">
   <a href="https://obadadallo.web.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/obada-dallo-777a47a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/obada_dallo95"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -22,6 +26,8 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 
 أنا صانع منتجات رقمية بمنهج AI-first ومطور فل ستاك مقيم في ألمانيا، أركز على تحويل الأفكار إلى منتجات عملية واضحة وقابلة للاستخدام.
 
+هذا البورتفوليو يعكس طريقة التفكير بقدر ما يعرض النتائج: كيف أضيّق الفكرة، وكيف أحدد النسخة الأولى، وكيف أحوّلها إلى منتج فعلي قابل للإطلاق.
+
 ## What I Work With
 
 - Product scoping, MVP strategy, and rapid iteration
@@ -29,6 +35,12 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 - Next.js and TypeScript for modern web products
 - Firebase, Supabase, APIs, and backend workflows
 - Automation systems and AI-assisted product tooling
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,ts,js,firebase,supabase,python,postgresql,git,github,figma,vscode" alt="Tech stack" />
+</p>
 
 ## Selected Public Work
 
