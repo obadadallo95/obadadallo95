@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=0F766E&center=true&vCenter=true&width=900&lines=Turning+ideas+into+launchable+products;Web%2C+mobile%2C+and+automation+systems;Product+thinking+with+real+execution;Arabic+and+English+product+building" alt="Typing animation" />
+</p>
+
+<p align="center">
   Building practical web, mobile, and automation products with strong product thinking.
 </p>
 
