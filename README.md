@@ -32,13 +32,25 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 
 هذا البورتفوليو يعكس طريقة التفكير بقدر ما يعرض النتائج: كيف أضيّق الفكرة، وكيف أحدد النسخة الأولى، وكيف أحوّلها إلى منتج فعلي قابل للإطلاق.
 
-## What I Work With
+## What I Build Around
 
 - Product scoping, MVP strategy, and rapid iteration
 - Flutter and Dart for polished mobile experiences
 - Next.js and TypeScript for modern web products
 - Firebase, Supabase, APIs, and backend workflows
 - Automation systems and AI-assisted product tooling
+
+## How I Think
+
+I care about products that are not just visually polished, but directionally sharp.
+
+That usually means:
+- narrowing the idea before building too much
+- choosing the smallest version worth launching
+- designing flows people can actually understand and use
+- keeping the technical stack practical, not ornamental
+
+أهتم بأن يكون المنتج واضح الاتجاه، لا مجرد واجهة جميلة. لذلك أركز على تضييق الفكرة، واختيار أول نسخة تستحق البناء، ثم تنفيذها بشكل سريع لكن واعٍ.
 
 ## Tech Stack
 
@@ -50,21 +62,34 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 
 ### [Tazkertak](https://github.com/obadadallo95/Tazkertak)
 Private relationship app with secure pairing, shared memories, pulse interactions, and native widgets.
+Shows product sensitivity, mobile UX depth, and end-to-end application thinking.
 
 ### [sada-messenger](https://github.com/obadadallo95/sada-messenger)
 Offline-first encrypted mesh messaging for Android, built around resilience and privacy.
+Shows system thinking, product ambition, and infrastructure-aware mobile design.
 
 ### [Hydra-Cool](https://github.com/obadadallo95/Hydra-Cool)
 Research-driven engineering concept exploring buoyancy-assisted cooling for hyperscale data centers.
+Shows technical curiosity, modeling mindset, and comfort with hard problems.
 
 ### [NHP-Protocol](https://github.com/obadadallo95/NHP-Protocol)
 Distributed AI compute concept built around idle smartphones at global scale.
+Shows large-scale conceptual architecture and protocol-level product imagination.
 
 ### [voicesyria-website](https://github.com/obadadallo95/voicesyria-website)
 Multilingual product website with RTL support and a clear product-facing presentation layer.
+Shows branding, bilingual execution, and clean communication through interface.
 
 ### [kashef-syrian-post-guard](https://github.com/obadadallo95/kashef-syrian-post-guard)
 AI-assisted Syrian content protection and moderation concept with a strong social-use angle.
+Shows socially grounded product intent with applied AI direction.
+
+## What You’ll Usually Find In My Work
+
+- Products shaped from ambiguous ideas into clearer launchable scopes
+- Bilingual and RTL-aware experiences when the audience needs them
+- Product concepts with civic, educational, or socially useful angles
+- A mix of product design thinking and hands-on engineering execution
 
 ## Focus Areas
 
