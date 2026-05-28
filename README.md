@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=0F766E&center=true&vCenter=true&width=900&lines=Turning+ideas+into+launchable+products;Web%2C+mobile%2C+and+automation+systems;Product+thinking+with+real+execution;Arabic+and+English+product+building" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=0F766E&center=true&vCenter=true&width=820&lines=AI-first+product+builder;From+idea+to+launchable+MVP;Web%2C+mobile%2C+and+automation+products" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -31,6 +31,24 @@ Based in Germany, I work across product strategy, UX-minded execution, and full-
 أنا صانع منتجات رقمية بمنهج AI-first ومطور فل ستاك مقيم في ألمانيا، أركز على تحويل الأفكار إلى منتجات عملية واضحة وقابلة للاستخدام.
 
 هذا البورتفوليو يعكس طريقة التفكير بقدر ما يعرض النتائج: كيف أضيّق الفكرة، وكيف أحدد النسخة الأولى، وكيف أحوّلها إلى منتج فعلي قابل للإطلاق.
+
+## Featured Projects
+
+### [Tazkertak](https://github.com/obadadallo95/Tazkertak)
+Private relationship app with secure pairing, shared memories, pulse interactions, and native widgets.
+Shows product sensitivity, mobile UX depth, and end-to-end application thinking.
+
+### [sada-messenger](https://github.com/obadadallo95/sada-messenger)
+Offline-first encrypted mesh messaging for Android, built around resilience and privacy.
+Shows system thinking, product ambition, and infrastructure-aware mobile design.
+
+### [Hydra-Cool](https://github.com/obadadallo95/Hydra-Cool)
+Research-driven engineering concept exploring buoyancy-assisted cooling for hyperscale data centers.
+Shows technical curiosity, modeling mindset, and comfort with hard problems.
+
+### [NHP-Protocol](https://github.com/obadadallo95/NHP-Protocol)
+Distributed AI compute concept built around idle smartphones at global scale.
+Shows large-scale conceptual architecture and protocol-level product imagination.
 
 ## What I Build Around
 
@@ -58,23 +76,7 @@ That usually means:
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,ts,js,firebase,supabase,python,postgresql,git,github,figma,vscode" alt="Tech stack" />
 </p>
 
-## Selected Public Work
-
-### [Tazkertak](https://github.com/obadadallo95/Tazkertak)
-Private relationship app with secure pairing, shared memories, pulse interactions, and native widgets.
-Shows product sensitivity, mobile UX depth, and end-to-end application thinking.
-
-### [sada-messenger](https://github.com/obadadallo95/sada-messenger)
-Offline-first encrypted mesh messaging for Android, built around resilience and privacy.
-Shows system thinking, product ambition, and infrastructure-aware mobile design.
-
-### [Hydra-Cool](https://github.com/obadadallo95/Hydra-Cool)
-Research-driven engineering concept exploring buoyancy-assisted cooling for hyperscale data centers.
-Shows technical curiosity, modeling mindset, and comfort with hard problems.
-
-### [NHP-Protocol](https://github.com/obadadallo95/NHP-Protocol)
-Distributed AI compute concept built around idle smartphones at global scale.
-Shows large-scale conceptual architecture and protocol-level product imagination.
+## More Public Work
 
 ### [voicesyria-website](https://github.com/obadadallo95/voicesyria-website)
 Multilingual product website with RTL support and a clear product-facing presentation layer.
