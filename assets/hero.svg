@@ -82,22 +82,22 @@
   </text>
 
   <g>
-    <rect x="70" y="296" width="250" height="42" rx="21" fill="rgba(15,118,110,0.18)" stroke="rgba(45,212,191,0.32)"/>
+    <rect x="70" y="296" width="214" height="42" rx="21" fill="rgba(15,118,110,0.18)" stroke="rgba(45,212,191,0.32)"/>
     <text x="88" y="323" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
-      Arabic + English product execution
+      Arabic + English builds
     </text>
   </g>
 
   <g>
-    <rect x="336" y="296" width="178" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(96,165,250,0.26)"/>
-    <text x="356" y="323" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
+    <rect x="302" y="296" width="178" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(96,165,250,0.26)"/>
+    <text x="322" y="323" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
       MVP-first delivery
     </text>
   </g>
 
   <g>
-    <rect x="530" y="296" width="190" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(74,222,128,0.24)"/>
-    <text x="548" y="323" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
+    <rect x="496" y="296" width="190" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(74,222,128,0.24)"/>
+    <text x="514" y="323" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
       Civic + product thinking
     </text>
   </g>
