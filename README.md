@@ -1,19 +1,13 @@
-<h1 align="center">Obada Dallo</h1>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Obada Dallo hero banner" />
+</p>
 
 <p align="center">
   <strong>AI-first product builder</strong> · Full-stack developer · Flutter, Next.js, Firebase, Supabase
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=0F766E&center=true&vCenter=true&width=820&lines=AI-first+product+builder;From+idea+to+launchable+MVP;Web%2C+mobile%2C+and+automation+products" alt="Typing animation" />
-</p>
-
-<p align="center">
   Building practical web, mobile, and automation products with strong product thinking.
-</p>
-
-<p align="center">
-  From raw idea to launchable MVP, with a focus on clarity, execution, and real usability.
 </p>
 
 <p align="center">
@@ -24,13 +18,11 @@
 
 ## About
 
-I build MVPs, internal tools, and user-facing products that move from rough idea to usable product quickly and cleanly.
+I build products that move from rough idea to launchable MVP with clear scope, product direction, and hands-on execution.
 
-Based in Germany, I work across product strategy, UX-minded execution, and full-stack delivery.
+Based in Germany, I work across product strategy, web and mobile delivery, automation systems, and applied AI workflows.
 
-أنا صانع منتجات رقمية بمنهج AI-first ومطور فل ستاك مقيم في ألمانيا، أركز على تحويل الأفكار إلى منتجات عملية واضحة وقابلة للاستخدام.
-
-هذا البورتفوليو يعكس طريقة التفكير بقدر ما يعرض النتائج: كيف أضيّق الفكرة، وكيف أحدد النسخة الأولى، وكيف أحوّلها إلى منتج فعلي قابل للإطلاق.
+أنا صانع منتجات رقمية بمنهج AI-first ومطور فل ستاك مقيم في ألمانيا، أركز على تحويل الفكرة الخام إلى منتج واضح، قابل للإطلاق، ومفيد فعلاً.
 
 ## Featured Work
 
