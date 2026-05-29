@@ -41,14 +41,14 @@ Based in Germany, I work across product strategy, web and mobile delivery, autom
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/Hydra-Cool">Hydra-Cool</a></h3>
-      <p>Research-driven engineering concept exploring buoyancy-assisted cooling for hyperscale data centers.</p>
-      <p><strong>Why it matters:</strong> Technical curiosity, modeling mindset, and comfort with hard problems.</p>
+      <a href="https://github.com/obadadallo95/Hydra-Cool">
+        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/hydra-card.svg" alt="Hydra-Cool project card" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/NHP-Protocol">NHP-Protocol</a></h3>
-      <p>Distributed AI compute concept built around idle smartphones at global scale.</p>
-      <p><strong>Why it matters:</strong> Large-scale conceptual architecture and protocol-level systems thinking.</p>
+      <a href="https://github.com/obadadallo95/NHP-Protocol">
+        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/nhp-card.svg" alt="NHP-Protocol project card" />
+      </a>
     </td>
   </tr>
 </table>

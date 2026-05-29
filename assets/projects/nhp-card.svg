@@ -1,0 +1,86 @@
+<svg width="560" height="300" viewBox="0 0 560 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NHP-Protocol featured card</title>
+  <desc id="desc">A premium dark systems card for NHP-Protocol.</desc>
+  <defs>
+    <linearGradient id="nhp-bg" x1="0" y1="0" x2="560" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090F1E"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="nhp-stroke" x1="28" y1="26" x2="530" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0.22"/>
+    </linearGradient>
+    <radialGradient id="nhp-orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(446 88) rotate(90) scale(116 116)">
+      <stop stop-color="#6366F1" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="560" height="300" rx="28" fill="url(#nhp-bg)"/>
+  <rect x="14" y="14" width="532" height="272" rx="22" stroke="rgba(148,163,184,0.14)"/>
+  <rect x="24" y="24" width="512" height="252" rx="18" stroke="url(#nhp-stroke)" stroke-opacity="0.34"/>
+
+  <g opacity="0.14">
+    <path d="M32 82H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M32 150H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M32 218H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M136 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M248 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M360 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M472 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+  </g>
+
+  <circle cx="446" cy="88" r="116" fill="url(#nhp-orb)">
+    <animate attributeName="cx" values="446;430;446" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="88;102;88" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="40" y="54" fill="#C4B5FD" font-family="IBM Plex Mono, Menlo, monospace" font-size="12" letter-spacing="0.18em">
+    FEATURED PROTOCOL
+  </text>
+
+  <text x="40" y="98" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="34" font-weight="700">
+    NHP-Protocol
+  </text>
+
+  <text x="40" y="130" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">
+    distributed compute • idle smartphones • protocol thinking
+  </text>
+
+  <text x="40" y="172" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16">
+    A global coordination concept for turning dormant devices
+  </text>
+  <text x="40" y="196" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16">
+    into useful AI infrastructure through protocol-level design.
+  </text>
+
+  <g>
+    <rect x="40" y="226" width="114" height="30" rx="15" fill="rgba(99,102,241,0.14)" stroke="rgba(167,139,250,0.22)"/>
+    <text x="58" y="246" fill="#EDE9FE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Scale thinking</text>
+  </g>
+  <g>
+    <rect x="164" y="226" width="98" height="30" rx="15" fill="rgba(34,197,94,0.14)" stroke="rgba(74,222,128,0.22)"/>
+    <text x="182" y="246" fill="#DCFCE7" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Networks</text>
+  </g>
+  <g>
+    <rect x="272" y="226" width="118" height="30" rx="15" fill="rgba(17,24,39,0.7)" stroke="rgba(148,163,184,0.18)"/>
+    <text x="290" y="246" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">AI systems</text>
+  </g>
+
+  <g transform="translate(380 126)">
+    <circle cx="92" cy="68" r="10" fill="#C4B5FD"/>
+    <circle cx="40" cy="38" r="9" fill="#60A5FA"/>
+    <circle cx="148" cy="42" r="9" fill="#4ADE80"/>
+    <circle cx="48" cy="118" r="9" fill="#22C55E"/>
+    <circle cx="146" cy="122" r="9" fill="#A78BFA"/>
+    <path d="M92 68 L40 38" stroke="rgba(148,163,184,0.55)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M92 68 L148 42" stroke="rgba(148,163,184,0.55)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M92 68 L48 118" stroke="rgba(148,163,184,0.55)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M92 68 L146 122" stroke="rgba(148,163,184,0.55)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M40 38 L148 42" stroke="rgba(96,165,250,0.28)" stroke-width="1.5" stroke-dasharray="5 7"/>
+    <path d="M48 118 L146 122" stroke="rgba(74,222,128,0.28)" stroke-width="1.5" stroke-dasharray="5 7"/>
+    <circle cx="92" cy="68" r="46" fill="none" stroke="rgba(167,139,250,0.18)" stroke-width="1.5" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate" from="0 92 68" to="360 92 68" dur="16s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

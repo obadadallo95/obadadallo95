@@ -1,0 +1,89 @@
+<svg width="560" height="300" viewBox="0 0 560 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hydra-Cool featured card</title>
+  <desc id="desc">A premium dark concept card for Hydra-Cool.</desc>
+  <defs>
+    <linearGradient id="hydra-bg" x1="0" y1="0" x2="560" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111A"/>
+      <stop offset="1" stop-color="#0E1B28"/>
+    </linearGradient>
+    <linearGradient id="hydra-stroke" x1="30" y1="20" x2="530" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0.22"/>
+    </linearGradient>
+    <radialGradient id="hydra-orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(430 80) rotate(90) scale(120 120)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="560" height="300" rx="28" fill="url(#hydra-bg)"/>
+  <rect x="14" y="14" width="532" height="272" rx="22" stroke="rgba(148,163,184,0.14)"/>
+  <rect x="24" y="24" width="512" height="252" rx="18" stroke="url(#hydra-stroke)" stroke-opacity="0.35"/>
+
+  <g opacity="0.14">
+    <path d="M32 82H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M32 150H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M32 218H528" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M136 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M248 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M360 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M472 24V276" stroke="#64748B" stroke-dasharray="4 8"/>
+  </g>
+
+  <circle cx="430" cy="80" r="120" fill="url(#hydra-orb)">
+    <animate attributeName="cx" values="430;446;430" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;92;80" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="40" y="54" fill="#7DD3FC" font-family="IBM Plex Mono, Menlo, monospace" font-size="12" letter-spacing="0.18em">
+    FEATURED RESEARCH
+  </text>
+
+  <text x="40" y="98" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="34" font-weight="700">
+    Hydra-Cool
+  </text>
+
+  <text x="40" y="130" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">
+    thermal systems • data center cooling • engineering concept
+  </text>
+
+  <text x="40" y="172" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16">
+    Buoyancy-assisted cooling thinking for hyperscale
+  </text>
+  <text x="40" y="196" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16">
+    infrastructure, modeled with a systems-first research lens.
+  </text>
+
+  <g>
+    <rect x="40" y="226" width="106" height="30" rx="15" fill="rgba(14,165,233,0.14)" stroke="rgba(56,189,248,0.22)"/>
+    <text x="58" y="246" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Simulation</text>
+  </g>
+  <g>
+    <rect x="156" y="226" width="114" height="30" rx="15" fill="rgba(20,184,166,0.14)" stroke="rgba(45,212,191,0.22)"/>
+    <text x="174" y="246" fill="#CCFBF1" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Hard problems</text>
+  </g>
+  <g>
+    <rect x="280" y="226" width="120" height="30" rx="15" fill="rgba(17,24,39,0.7)" stroke="rgba(148,163,184,0.18)"/>
+    <text x="298" y="246" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600">Deep systems</text>
+  </g>
+
+  <g transform="translate(380 132)">
+    <circle cx="88" cy="60" r="58" fill="none" stroke="rgba(56,189,248,0.20)" stroke-width="1.5"/>
+    <circle cx="88" cy="60" r="38" fill="none" stroke="rgba(20,184,166,0.24)" stroke-width="1.5" stroke-dasharray="5 7"/>
+    <path d="M88 2 C126 26 126 94 88 118 C50 94 50 26 88 2 Z" fill="none" stroke="rgba(125,211,252,0.45)" stroke-width="1.5"/>
+    <path d="M88 22 C112 38 112 82 88 98 C64 82 64 38 88 22 Z" fill="none" stroke="rgba(94,234,212,0.55)" stroke-width="1.5"/>
+    <circle cx="88" cy="60" r="6" fill="#7DD3FC"/>
+    <path d="M88 12 L88 28" stroke="rgba(125,211,252,0.6)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M134 60 L118 60" stroke="rgba(45,212,191,0.6)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M88 108 L88 92" stroke="rgba(125,211,252,0.6)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M42 60 L58 60" stroke="rgba(45,212,191,0.6)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
