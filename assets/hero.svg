@@ -25,6 +25,14 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <radialGradient id="orbA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) rotate(90) scale(120 120)">
+      <stop stop-color="#14B8A6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) rotate(90) scale(150 150)">
+      <stop stop-color="#2563EB" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
@@ -43,8 +51,16 @@
     <path d="M1080 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
   </g>
 
-  <circle cx="970" cy="115" r="120" fill="#14B8A6" opacity="0.05"/>
-  <circle cx="1030" cy="250" r="150" fill="#2563EB" opacity="0.07"/>
+  <g opacity="0.95">
+    <circle cx="950" cy="120" r="120" fill="url(#orbA)">
+      <animate attributeName="cx" values="950;980;950" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="120;110;120" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="250" r="150" fill="url(#orbB)">
+      <animate attributeName="cx" values="1040;1010;1040" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="250;265;250" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
   <g filter="url(#softGlow)">
     <rect x="70" y="66" width="120" height="8" rx="4" fill="url(#glow)"/>
@@ -86,17 +102,36 @@
     </text>
   </g>
 
-  <g opacity="0.85">
-    <path d="M862 318H1032" stroke="url(#line)" stroke-width="3" stroke-linecap="round">
-      <animate attributeName="stroke-dasharray" values="0 210;210 0;0 210" dur="5.6s" repeatCount="indefinite"/>
-      <animate attributeName="stroke-dashoffset" values="0;-30;-240" dur="5.6s" repeatCount="indefinite"/>
-    </path>
-    <circle cx="1035" cy="318" r="4" fill="#5EEAD4">
-      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <g transform="translate(915 220)">
+    <circle cx="90" cy="0" r="76" fill="none" stroke="rgba(148,163,184,0.18)" stroke-width="1.5" stroke-dasharray="6 8"/>
+    <circle cx="90" cy="0" r="52" fill="none" stroke="rgba(20,184,166,0.18)" stroke-width="1.5"/>
+    <circle cx="90" cy="0" r="28" fill="none" stroke="rgba(96,165,250,0.22)" stroke-width="1.5"/>
 
-  <text x="862" y="282" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="14">
-    idea → scope → build → launch
-  </text>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 90 0" to="360 90 0" dur="16s" repeatCount="indefinite"/>
+      <circle cx="166" cy="0" r="5" fill="#5EEAD4"/>
+      <circle cx="90" cy="-52" r="4" fill="#60A5FA"/>
+      <circle cx="48" cy="42" r="3.5" fill="#22C55E"/>
+    </g>
+
+    <g opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="360 90 0" to="0 90 0" dur="12s" repeatCount="indefinite"/>
+      <path d="M90 -76 L90 -52" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M166 0 L142 0" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M48 42 L66 28" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+
+    <text x="90" y="-96" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
+      idea
+    </text>
+    <text x="182" y="4" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
+      build
+    </text>
+    <text x="90" y="104" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
+      launch
+    </text>
+    <text x="-2" y="4" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
+      scope
+    </text>
+  </g>
 </svg>
