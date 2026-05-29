@@ -54,49 +54,49 @@
     Obada Dallo
   </text>
 
-  <text x="70" y="170" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">
+  <text x="70" y="170" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
     AI-first product builder • founder-minded • systems thinker
   </text>
 
-  <text x="70" y="222" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
+  <text x="70" y="218" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
     I turn raw ideas into launchable digital products across web, mobile,
   </text>
-  <text x="70" y="252" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
+  <text x="70" y="248" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
     automation, and AI-assisted workflows — with sharp scope and real execution.
   </text>
 
   <g>
-    <rect x="70" y="302" width="248" height="42" rx="21" fill="rgba(15,118,110,0.18)" stroke="rgba(45,212,191,0.32)"/>
-    <text x="92" y="329" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    <rect x="70" y="296" width="250" height="42" rx="21" fill="rgba(15,118,110,0.18)" stroke="rgba(45,212,191,0.32)"/>
+    <text x="88" y="323" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
       Arabic + English product execution
     </text>
   </g>
 
   <g>
-    <rect x="332" y="302" width="187" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(96,165,250,0.26)"/>
-    <text x="354" y="329" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    <rect x="336" y="296" width="178" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(96,165,250,0.26)"/>
+    <text x="356" y="323" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
       MVP-first delivery
     </text>
   </g>
 
   <g>
-    <rect x="533" y="302" width="200" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(74,222,128,0.24)"/>
-    <text x="555" y="329" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
+    <rect x="530" y="296" width="190" height="42" rx="21" fill="rgba(30,41,59,0.78)" stroke="rgba(74,222,128,0.24)"/>
+    <text x="548" y="323" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">
       Civic + product thinking
     </text>
   </g>
 
   <g opacity="0.85">
-    <path d="M835 330H1045" stroke="url(#line)" stroke-width="3" stroke-linecap="round">
+    <path d="M862 318H1032" stroke="url(#line)" stroke-width="3" stroke-linecap="round">
       <animate attributeName="stroke-dasharray" values="0 210;210 0;0 210" dur="5.6s" repeatCount="indefinite"/>
       <animate attributeName="stroke-dashoffset" values="0;-30;-240" dur="5.6s" repeatCount="indefinite"/>
     </path>
-    <circle cx="1048" cy="330" r="4" fill="#5EEAD4">
+    <circle cx="1035" cy="318" r="4" fill="#5EEAD4">
       <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
     </circle>
   </g>
 
-  <text x="835" y="288" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="16">
-    product thinking → scope → build → launch
+  <text x="862" y="282" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="14">
+    idea → scope → build → launch
   </text>
 </svg>
