@@ -14,6 +14,9 @@
       <stop stop-color="#2DD4BF" stop-opacity="0.25"/>
       <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
     </radialGradient>
+    <clipPath id="tazLogoClip">
+      <rect x="-27" y="-27" width="54" height="54" rx="18"/>
+    </clipPath>
   </defs>
 
   <rect width="560" height="320" rx="26" fill="url(#bg)"/>
@@ -72,8 +75,6 @@
 
   <g transform="translate(430 168)">
     <rect x="-34" y="-34" width="68" height="68" rx="22" fill="rgba(15,23,42,0.88)" stroke="rgba(96,165,250,0.18)"/>
-    <path d="M-12 -4C-12 -15.046 -3.046 -24 8 -24C19.046 -24 28 -15.046 28 -4C28 21 8 32 8 32C8 32 -12 21 -12 -4Z" fill="none" stroke="#5EEAD4" stroke-width="2.2"/>
-    <circle cx="0" cy="-6" r="4" fill="#60A5FA"/>
-    <circle cx="16" cy="-6" r="4" fill="#60A5FA"/>
+    <image href="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/tazkertak-logo.png" x="-27" y="-27" width="54" height="54" clip-path="url(#tazLogoClip)" preserveAspectRatio="xMidYMid slice"/>
   </g>
 </svg>
