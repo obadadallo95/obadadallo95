@@ -1,0 +1,85 @@
+<svg width="560" height="320" viewBox="0 0 560 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">sada-messenger featured project card</title>
+  <desc id="desc">Premium project card for sada-messenger highlighting offline-first encrypted mesh communication.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101D"/>
+      <stop offset="1" stop-color="#0C1626"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="42" y1="0" x2="210" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(454 96) rotate(90) scale(96 96)">
+      <stop stop-color="#2563EB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="560" height="320" rx="26" fill="url(#bg)"/>
+  <rect x="12" y="12" width="536" height="296" rx="20" stroke="rgba(148,163,184,0.16)"/>
+
+  <g opacity="0.17">
+    <path d="M0 80H560" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M0 148H560" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M0 216H560" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M118 0V320" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M236 0V320" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M354 0V320" stroke="#64748B" stroke-dasharray="4 8"/>
+    <path d="M472 0V320" stroke="#64748B" stroke-dasharray="4 8"/>
+  </g>
+
+  <circle cx="454" cy="96" r="96" fill="url(#orb)">
+    <animate attributeName="cx" values="454;438;454" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="96;112;96" dur="11s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="40" y="42" width="92" height="8" rx="4" fill="url(#accent)"/>
+  <text x="40" y="92" fill="#F8FAFC" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="34" font-weight="700">
+    sada-messenger
+  </text>
+  <text x="40" y="124" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">
+    offline-first messaging • mesh communication • privacy by design
+  </text>
+
+  <text x="40" y="172" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500">
+    Encrypted Android messaging designed for resilience,
+  </text>
+  <text x="40" y="196" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="500">
+    local connectivity, and difficult real-world environments.
+  </text>
+
+  <g>
+    <rect x="40" y="236" width="132" height="34" rx="17" fill="rgba(37,99,235,0.16)" stroke="rgba(96,165,250,0.24)"/>
+    <text x="59" y="258" fill="#DBEAFE" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+      Offline-first
+    </text>
+  </g>
+
+  <g>
+    <rect x="184" y="236" width="122" height="34" rx="17" fill="rgba(34,197,94,0.16)" stroke="rgba(74,222,128,0.24)"/>
+    <text x="204" y="258" fill="#DCFCE7" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+      Mesh-ready
+    </text>
+  </g>
+
+  <g>
+    <rect x="318" y="236" width="140" height="34" rx="17" fill="rgba(17,24,39,0.72)" stroke="rgba(148,163,184,0.18)"/>
+    <text x="338" y="258" fill="#E5E7EB" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+      Secure flows
+    </text>
+  </g>
+
+  <g transform="translate(444 184)">
+    <circle cx="0" cy="0" r="44" fill="none" stroke="rgba(96,165,250,0.22)" stroke-width="1.4"/>
+    <circle cx="-26" cy="-18" r="8" fill="#60A5FA"/>
+    <circle cx="28" cy="-12" r="8" fill="#34D399"/>
+    <circle cx="-6" cy="28" r="8" fill="#22C55E"/>
+    <path d="M-26 -18L28 -12" stroke="rgba(148,163,184,0.6)" stroke-width="1.8"/>
+    <path d="M-26 -18L-6 28" stroke="rgba(148,163,184,0.6)" stroke-width="1.8"/>
+    <path d="M28 -12L-6 28" stroke="rgba(148,163,184,0.6)" stroke-width="1.8"/>
+    <circle cx="0" cy="0" r="18" fill="rgba(15,23,42,0.88)" stroke="rgba(96,165,250,0.18)"/>
+    <path d="M-6 0H6M0 -6V6" stroke="#E2E8F0" stroke-width="2" stroke-linecap="round"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 444 184" to="360 444 184" dur="18s" repeatCount="indefinite"/>
+  </g>
+</svg>

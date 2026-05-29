@@ -29,14 +29,14 @@ Based in Germany, I work across product strategy, web and mobile delivery, autom
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/Tazkertak">Tazkertak</a></h3>
-      <p>Private relationship app with secure pairing, shared memories, pulse interactions, and native widgets.</p>
-      <p><strong>Why it matters:</strong> Emotional product design, mobile UX depth, and end-to-end application thinking.</p>
+      <a href="https://github.com/obadadallo95/Tazkertak">
+        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/tazkertak-card.svg" alt="Tazkertak project card" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/sada-messenger">sada-messenger</a></h3>
-      <p>Offline-first encrypted mesh messaging for Android, built around resilience and privacy.</p>
-      <p><strong>Why it matters:</strong> Systems thinking, product ambition, and infrastructure-aware mobile design.</p>
+      <a href="https://github.com/obadadallo95/sada-messenger">
+        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/sada-card.svg" alt="sada-messenger project card" />
+      </a>
     </td>
   </tr>
   <tr>
