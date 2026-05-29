@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Obada Dallo hero banner" />
+  <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/hero.svg" alt="Obada Dallo hero banner" />
 </p>
 
 <p align="center">
