@@ -1,137 +1,21 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Obada Dallo - AI-first product builder</title>
-  <desc id="desc">Premium animated profile banner for Obada Dallo highlighting product building, bilingual execution, and systems thinking.</desc>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Obada Dallo — Product Engineer</title>
+  <desc id="desc">A clean technical banner describing Obada Dallo's product engineering work across web, mobile, and desktop.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#08111F"/>
-      <stop offset="0.55" stop-color="#0D1728"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="170" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#14B8A6"/>
-      <stop offset="0.5" stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#22C55E"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="210" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#14B8A6" stop-opacity="0"/>
-      <stop offset="0.35" stop-color="#14B8A6"/>
-      <stop offset="0.7" stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <radialGradient id="orbA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) rotate(90) scale(120 120)">
-      <stop stop-color="#14B8A6" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="orbB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0) rotate(90) scale(150 150)">
-      <stop stop-color="#2563EB" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#09111F"/><stop offset="1" stop-color="#111B2D"/></linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#2DD4BF"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 118) rotate(90) scale(200)" gradientUnits="userSpaceOnUse"><stop stop-color="#2563EB" stop-opacity=".28"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
   </defs>
-
-  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
-  <rect x="20" y="20" width="1160" height="380" rx="22" stroke="rgba(148,163,184,0.18)"/>
-
-  <g opacity="0.17">
-    <path d="M0 92H1200" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M0 164H1200" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M0 236H1200" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M0 308H1200" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M180 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M360 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M540 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M720 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M900 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-    <path d="M1080 0V420" stroke="#64748B" stroke-dasharray="4 8"/>
-  </g>
-
-  <g opacity="0.95">
-    <circle cx="950" cy="120" r="120" fill="url(#orbA)">
-      <animate attributeName="cx" values="950;980;950" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="120;110;120" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1040" cy="250" r="150" fill="url(#orbB)">
-      <animate attributeName="cx" values="1040;1010;1040" dur="12s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="250;265;250" dur="12s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <g filter="url(#softGlow)">
-    <rect x="70" y="66" width="120" height="8" rx="4" fill="url(#glow)"/>
-  </g>
-
-  <text x="70" y="128" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5">
-    Obada Dallo
-  </text>
-
-  <text x="70" y="170" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
-    AI-first product builder • founder-minded • systems thinker
-  </text>
-
-  <text x="70" y="218" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
-    I turn raw ideas into launchable digital products across web, mobile,
-  </text>
-  <text x="70" y="248" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
-    automation, and AI-assisted workflows — with sharp scope and real execution.
-  </text>
-
-  <g>
-    <rect x="70" y="296" width="184" height="40" rx="20" fill="rgba(15,118,110,0.18)" stroke="rgba(45,212,191,0.32)"/>
-    <text x="90" y="321" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
-      Arabic + English
-    </text>
-  </g>
-
-  <g>
-    <rect x="268" y="296" width="156" height="40" rx="20" fill="rgba(30,41,59,0.78)" stroke="rgba(96,165,250,0.26)"/>
-    <text x="288" y="321" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
-      MVP delivery
-    </text>
-  </g>
-
-  <g>
-    <rect x="438" y="296" width="176" height="40" rx="20" fill="rgba(30,41,59,0.78)" stroke="rgba(74,222,128,0.24)"/>
-    <text x="458" y="321" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
-      Civic products
-    </text>
-  </g>
-
-  <g transform="translate(915 220)">
-    <circle cx="90" cy="0" r="76" fill="none" stroke="rgba(148,163,184,0.18)" stroke-width="1.5" stroke-dasharray="6 8"/>
-    <circle cx="90" cy="0" r="52" fill="none" stroke="rgba(20,184,166,0.18)" stroke-width="1.5"/>
-    <circle cx="90" cy="0" r="28" fill="none" stroke="rgba(96,165,250,0.22)" stroke-width="1.5"/>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0 90 0" to="360 90 0" dur="16s" repeatCount="indefinite"/>
-      <circle cx="166" cy="0" r="5" fill="#5EEAD4"/>
-      <circle cx="90" cy="-52" r="4" fill="#60A5FA"/>
-      <circle cx="48" cy="42" r="3.5" fill="#22C55E"/>
-    </g>
-
-    <g opacity="0.9">
-      <animateTransform attributeName="transform" type="rotate" from="360 90 0" to="0 90 0" dur="12s" repeatCount="indefinite"/>
-      <path d="M90 -76 L90 -52" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
-      <path d="M166 0 L142 0" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
-      <path d="M48 42 L66 28" stroke="rgba(148,163,184,0.6)" stroke-width="1.5" stroke-linecap="round"/>
-    </g>
-
-    <text x="90" y="-96" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
-      idea
-    </text>
-    <text x="182" y="4" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
-      build
-    </text>
-    <text x="90" y="104" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
-      launch
-    </text>
-    <text x="-2" y="4" text-anchor="middle" fill="#94A3B8" font-family="IBM Plex Mono, Menlo, monospace" font-size="13">
-      scope
-    </text>
-  </g>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="324" rx="16" stroke="#94A3B8" stroke-opacity=".22"/>
+  <path d="M56 80H1144M56 180H1144M56 280H1144M276 42V318M496 42V318M716 42V318M936 42V318" stroke="#94A3B8" stroke-opacity=".13" stroke-dasharray="4 10"/>
+  <circle cx="1010" cy="118" r="200" fill="url(#glow)"/>
+  <path d="M56 74H252" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+  <text x="56" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">OBADA DALLO</text>
+  <text x="56" y="194" fill="#9FE9DB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="5">PRODUCT ENGINEER</text>
+  <text x="56" y="252" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">0→1 · WEB · MOBILE · DESKTOP</text>
+  <text x="56" y="302" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">SHIP · VERIFY · ITERATE</text>
+  <rect x="854" y="215" width="290" height="64" rx="12" fill="#0F1D32" stroke="#5EEAD4" stroke-opacity=".5"/>
+  <circle cx="886" cy="247" r="8" fill="#5EEAD4"/>
+  <text x="910" y="253" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BUILD FOR RELEASE</text>
 </svg>

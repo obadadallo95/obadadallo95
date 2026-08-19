@@ -1,139 +1,88 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/hero.svg" alt="Obada Dallo hero banner" />
+  <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/hero.svg" alt="Obada Dallo — Product Engineer. 0-to-1 delivery across web, mobile, and desktop." />
 </p>
 
 <p align="center">
-  <strong>AI-first product builder</strong> · Full-stack developer · Flutter, Next.js, Firebase, Supabase
+  <strong>Product Engineer</strong><br />
+  0-to-1 delivery across Web, Mobile &amp; Desktop<br />
+  Chemnitz, Germany · Authorized to work in Germany
 </p>
 
 <p align="center">
-  Building practical web, mobile, and automation products with strong product thinking.
+  <a href="https://obadadallo.web.app/">Portfolio</a> ·
+  <a href="https://obadadallo.web.app/resume/">Interactive Resume</a> ·
+  <a href="https://www.linkedin.com/in/obada-dallo-777a47a9/">LinkedIn</a> ·
+  <a href="mailto:obada.dallo95@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://obadadallo.web.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/obada-dallo-777a47a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/obada_dallo95"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+I build and ship user-facing products across web, mobile, and desktop. I work from ambiguous product problems through implementation, testing, platform constraints, and release—using AI coding agents heavily as part of the engineering workflow.
 
-## About
+## SHIPPED PRODUCTS
 
-I build products that move from rough idea to launchable MVP with clear scope, product direction, and hands-on execution.
+### [KeyFixer](https://github.com/obadadallo95/keyfixer) — Cross-platform typing utility
 
-Based in Germany, I work across product strategy, web and mobile delivery, automation systems, and applied AI workflows.
+<a href="https://obadadallo.web.app/work/keyfixer/"><img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/keyfixer-card.svg" alt="KeyFixer — shipped in 27 days across web, Mac App Store, Microsoft Store, and Chrome Web Store." /></a>
 
-أنا صانع منتجات رقمية بمنهج AI-first ومطور فل ستاك مقيم في ألمانيا، أركز على تحويل الفكرة الخام إلى منتج واضح، قابل للإطلاق، ومفيد فعلاً.
+**4 live channels · shipped in 27 days**<br />
+Tauri v2 · Rust · React · TypeScript · Vitest · GitHub Actions
 
-## Featured Work
+Privacy-first local text processing, with real App Store review and debugging iteration.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/obadadallo95/Tazkertak">
-        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/tazkertak-card.svg" alt="Tazkertak project card" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/obadadallo95/sada-messenger">
-        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/sada-card.svg" alt="sada-messenger project card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/obadadallo95/Hydra-Cool">
-        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/hydra-card.svg" alt="Hydra-Cool project card" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/obadadallo95/NHP-Protocol">
-        <img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/nhp-card.svg" alt="NHP-Protocol project card" />
-      </a>
-    </td>
-  </tr>
-</table>
+[Repository](https://github.com/obadadallo95/keyfixer) · [Case study](https://obadadallo.web.app/work/keyfixer/) · [Web app](https://keyfixer.vercel.app/) · [Mac App Store](https://apps.apple.com/de/app/keyfixer/id6796866841?mt=12) · [Microsoft Store](https://apps.microsoft.com/detail/9pk3g83gp41d) · [Chrome Web Store](https://chromewebstore.google.com/detail/keyfixer-%E2%80%93-arabic-english/bgleifjaplnanbncododdkgkpaieeafg)
 
-## What I Build Around
+### Eagle Test Germany — Offline-first exam preparation app
 
-- Product scoping, MVP strategy, and rapid iteration
-- Flutter and Dart for polished mobile experiences
-- Next.js and TypeScript for modern web products
-- Firebase, Supabase, APIs, and backend workflows
-- Automation systems and AI-assisted product tooling
+<a href="https://obadadallo.web.app/work/eagle-test-germany/"><img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/eagle-card.svg" alt="Eagle Test Germany — shipped on the Apple App Store and Google Play in seven languages." /></a>
 
-## How I Think
+**Apple App Store + Google Play · 7 languages**<br />
+Flutter · Dart · Riverpod · Hive · RevenueCat
 
-I care about products that are not just visually polished, but directionally sharp.
+Offline-first delivery with RTL, text-to-speech, notifications, automated Flutter tests, and exam-data integrity verification.
 
-That usually means:
-- narrowing the idea before building too much
-- choosing the smallest version worth launching
-- designing flows people can actually understand and use
-- keeping the technical stack practical, not ornamental
+[Apple App Store](https://apps.apple.com/app/eagle-test-germany/id6798893231) · [Google Play](https://play.google.com/store/apps/details?id=com.eagletest.germany) · [Case study](https://obadadallo.web.app/work/eagle-test-germany/)
 
-أهتم بأن يكون المنتج واضح الاتجاه، لا مجرد واجهة جميلة. لذلك أركز على تضييق الفكرة، واختيار أول نسخة تستحق البناء، ثم تنفيذها بشكل سريع لكن واعٍ.
+### [B-Yadina](https://b-yadina-official.web.app/) — Community reporting platform
 
-## Tech Stack
+<a href="https://obadadallo.web.app/work/b-yadina/"><img src="https://raw.githubusercontent.com/obadadallo95/obadadallo95/main/assets/projects/byadina-card.svg" alt="B-Yadina — live bilingual community reporting platform with 1,308 visitors and 49 submitted reports as of August 2026." /></a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,nextjs,ts,js,firebase,supabase,python,postgresql,git,github,figma,vscode" alt="Tech stack" />
-</p>
+**Live · 1,308 visitors · 49 submitted reports** *(as of August 2026)*<br />
+React · TypeScript · Firebase · Firestore · Leaflet
 
-## More Public Work
+Bilingual Arabic/English workflow with RTL, role-based authorization, Firestore Security Rules, uploads, maps, and stakeholder-led iteration.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/voicesyria-website">voicesyria-website</a></h3>
-      <p>Multilingual product website with RTL support and a clear product-facing presentation layer.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/kashef-syrian-post-guard">kashef-syrian-post-guard</a></h3>
-      <p>AI-assisted Syrian content protection and moderation concept with a strong social-use angle.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/crypto-radar-showcase">crypto-radar-showcase</a></h3>
-      <p>Public-safe crypto analysis product showcase with working UI flow and demo-safe architecture.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/obadadallo95/mufakkir-product-planner">mufakkir-product-planner</a></h3>
-      <p>AI-assisted product planning app for turning ideas into structured technical decisions.</p>
-    </td>
-  </tr>
-</table>
+[Live product](https://b-yadina-official.web.app/) · [Case study](https://obadadallo.web.app/work/b-yadina/)
 
-## What You’ll Usually Find In My Work
+## HOW I BUILD
 
-- Products shaped from ambiguous ideas into clearer launchable scopes
-- Bilingual and RTL-aware experiences when the audience needs them
-- Product concepts with civic, educational, or socially useful angles
-- A mix of product design thinking and hands-on engineering execution
+**FRAME** — Clarify the actual problem and constrain scope.<br />
+**BUILD** — Use modern stacks and AI coding agents for implementation and exploration.<br />
+**VERIFY** — Review diffs, test edge cases, permissions, and real platform behavior.<br />
+**SHIP** — Package, deploy, respond to review feedback, and iterate.
 
-## GitHub Snapshot
+AI coding agents are part of my daily engineering workflow; product decisions, validation, and release responsibility remain mine.
+
+## TECHNICAL SCOPE
+
+**Primary** — React · TypeScript · Flutter · Dart · Firebase · Tauri<br />
+**Additional / R&amp;D** — Node.js · Supabase / PostgreSQL · Kotlin / Android · Rust · REST APIs<br />
+**Delivery &amp; quality** — Git · GitHub Actions · CI/CD · Vitest · Flutter Test · integration testing · App Store · Google Play · MSIX<br />
+**AI-assisted workflow** — OpenAI Codex · Antigravity · Claude Code · Cursor
+
+## ENGINEERING R&amp;D
+
+- [Agent Preflight](https://devpost.com/software/agent-preflight) — **Prototype**
+- [Sada Messenger](https://github.com/obadadallo95/sada-messenger) — **R&amp;D Prototype**
+- LinkedIn Authority — **Active Development**
+
+## MORE PUBLIC BUILDS
+
+- [Syria Voice](https://github.com/obadadallo95/voicesyria-website) — multilingual public-facing product site with RTL support.
+
+## PRODUCT JUDGMENT
+
+I narrow the problem before building, choose the smallest useful version, and select tools around real product constraints. I value useful shipped work over ornamental architecture.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=obadadallo95&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=334155" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=obadadallo95&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" alt="GitHub streak" />
-</p>
-
-## Contact
-
-<p align="center">
-  <a href="mailto:obadadallo95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-obadadallo95%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://obadadallo.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-obadadallo.web.app-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/obada-dallo-777a47a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Obada%20Dallo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/obada_dallo95">
-    <img src="https://img.shields.io/badge/Telegram-@obada__dallo95-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <em>0→1 · SHIP · VERIFY · ITERATE</em><br />
+  <a href="mailto:obada.dallo95@gmail.com">Get in touch</a> · <a href="https://obadadallo.web.app/">Explore the portfolio</a>
 </p>
